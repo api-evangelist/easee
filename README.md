@@ -64,5 +64,27 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Easee is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://easee.com/
+Easee provides smart electric vehicle (EV) charging solutions, offering Wi‑Fi‑enabled, app‑controlled home and commercial chargers that optimize charging speed, energy usage, and integration with renewable sources. Their platform includes a cloud‑based dashboard for monitoring, scheduling, and firmware updates, as well as APIs for third‑party integration, enabling developers to retrieve charger status, control charging sessions, and manage user access across multiple locations.
+
+**Areas:** Company · EVCharging · SmartHome · IoT · Energy
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://easee.com/)
+- [Documentation](https://developer.easee.com/)
+- [Getting started](https://developer.easee.com/docs/onboarding-introduction)
+- [API reference](https://developer.easee.com/reference/open-api-specification.md)
+- [Support](https://support.easee.com/hc/en-gb)
+- [Changelog](https://developer.easee.com/changelog)
+- [Terms of service](https://easee.com/en/terms/)
+- [Privacy policy](https://easee.com/en/privacy/)
+- [GitHub](https://github.com/easee)
+- [Status](https://status.easee.com/)
+
+**APIs profiled:** 18
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/easee/](https://apis.io/providers/easee/).
